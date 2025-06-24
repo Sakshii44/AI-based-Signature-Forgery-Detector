@@ -14,21 +14,6 @@ Features
 
 ---
 
-Project Structure
-
-├── dataset/
-│ ├── genuine/
-│ └── forged/
-├── siamese_model.py # Model architecture
-├── siamese_train.py # Training script
-├── siamese_eval.py # Evaluation script
-├── siamese_utils.py # Helper functions
-├── streamlit_app.py # Optional: Streamlit interface
-├── requirements.txt
-└── README.md
-
----
-
 Dataset
 
 You can use:
